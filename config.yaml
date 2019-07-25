@@ -1,0 +1,13 @@
+---
+  metaData: 
+    author: "d3fkon"
+    git-repo: "https://github.com/d3fkon/testx123"
+    approval: 
+      approved-by: "d3fkon"
+      approval-date: 1564095209528
+  job: 
+    job-name: "d3fkonxtestx123"
+    config: 
+      pre-unit-test: "yes"
+      post-unit-test: "no"
+      dev: "no"
